@@ -1,0 +1,1 @@
+You Have to download vendor folder with composer your own and make sure there will autoload.php file available.
